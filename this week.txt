@@ -1,3 +1,6 @@
-L: Organize Clothes
- : Cloth Diapers 
-B: Finish Porch
+Mon: Mtg @ 8
+Mon: Get Title
+Mon: Chir @ 9
+Wed: Oil Change
+L: Work Out
+B: Car Stuff Done

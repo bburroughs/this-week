@@ -1,5 +1,4 @@
-Wed: Dentist @2
-       Cisco test @10
-Sun: DGroup
+Wed: Cisco test @10
+Sun: DGroup 
 Book Dining
 Paint House

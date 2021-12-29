@@ -1,8 +1,5 @@
 Mon: Look at RV?
-L Goal:
-- Sort Addie Clothes
-- Prep 4 Disney
-- Realtor Stuff
-B Goal:
-- Sort Boxes
-- Wash Truck
+L: Sort Addie Clothes
+L: Prep 4 Disney
+L: Realtor Stuff
+B: Wash Truck

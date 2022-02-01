@@ -1,2 +1,3 @@
-L: Realtor Stuff
-Fri: Inventory @11
+Wed: Oil Change @11
+Wed: L D-Group
+Thur: L Dentist

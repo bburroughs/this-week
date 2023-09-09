@@ -1,7 +1,7 @@
 M: Clean Living Room
 T: Kitchen
 W: Bathrooms
-Th: Bedroom
+Th: Bedrooms
 F: Living Room
 S: Kitchen
 Su: Rest

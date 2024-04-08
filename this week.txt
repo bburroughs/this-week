@@ -3,5 +3,5 @@ T: Meatloaf
 W: Stew
 Th: Chicken Fried Rice
 F: Salmon
-S: pleasant Counter
+S: 
 Su: 

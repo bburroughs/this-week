@@ -1,7 +1,8 @@
-M: Chuck Roast
-T: Meatloaf
-W: Stew
-Th: Chicken Fried Rice
-F: Salmon
-S: 
-Su: 
+Workouts:
+MWF: 
+   Push Ups, sit ups
+   Bicep Curls
+TThF:
+   Crunches, wall squats
+   triceps, leg lifts
+

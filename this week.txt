@@ -1,8 +1,8 @@
-Workouts:
-MWF: 
-   Push Ups, sit ups
-   Bicep Curls
-TThF:
-   Crunches, wall squats
-   triceps, leg lifts
+Chores:
+   Mow
+   Clean Garage
+   Rocks
+Work:
+   OGE Plan
+   Armexa Dashbaord
 
